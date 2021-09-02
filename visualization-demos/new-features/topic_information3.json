@@ -56,7 +56,7 @@
         },
         {
           "distance": "0.05141883734693962",
-          "word": "herbicide"
+          "word": "chemicals"
         },
         {
           "distance": "-0.42024791743085305",
@@ -234,7 +234,7 @@
         },
         {
           "distance": "-0.008307839870083203",
-          "word": "herbicide"
+          "word": "chemicals"
         },
         {
           "distance": "0.30579287361338675",
@@ -412,7 +412,7 @@
         },
         {
           "distance": "-0.24125416644795042",
-          "word": "herbicide"
+          "word": "chemicals"
         },
         {
           "distance": "-0.041221708142266986",
@@ -590,7 +590,7 @@
         },
         {
           "distance": "-0.17558018525537242",
-          "word": "herbicide"
+          "word": "chemicals"
         },
         {
           "distance": "0.05554504318155401",
@@ -768,7 +768,7 @@
         },
         {
           "distance": "-0.2540990342811387",
-          "word": "herbicide"
+          "word": "chemicals"
         },
         {
           "distance": "-0.2873253377718465",
@@ -946,7 +946,7 @@
         },
         {
           "distance": "-0.4332019447523463",
-          "word": "herbicide"
+          "word": "chemicals"
         },
         {
           "distance": "-0.02365233233930113",
@@ -1124,7 +1124,7 @@
         },
         {
           "distance": "0.2092476340552502",
-          "word": "herbicide"
+          "word": "chemicals"
         },
         {
           "distance": "0.01853340111918016",
@@ -1302,7 +1302,7 @@
         },
         {
           "distance": "0.40640240725292304",
-          "word": "herbicide"
+          "word": "chemicals"
         },
         {
           "distance": "0.057311256351490064",
@@ -1480,7 +1480,7 @@
         },
         {
           "distance": "-0.08552143943923662",
-          "word": "herbicide"
+          "word": "chemicals"
         },
         {
           "distance": "0.18883481042454928",
@@ -1658,7 +1658,7 @@
         },
         {
           "distance": "0.14076062613299956",
-          "word": "herbicide"
+          "word": "chemicals"
         },
         {
           "distance": "0.19415264582581246",
@@ -1836,7 +1836,7 @@
         },
         {
           "distance": "0.23627159806223488",
-          "word": "herbicide"
+          "word": "chemicals"
         },
         {
           "distance": "-0.09831464352292195",
@@ -2014,7 +2014,7 @@
         },
         {
           "distance": "-0.04399979976176391",
-          "word": "herbicide"
+          "word": "chemicals"
         },
         {
           "distance": "-0.0014893782750157285",
@@ -2192,7 +2192,7 @@
         },
         {
           "distance": "-0.19176538327407516",
-          "word": "herbicide"
+          "word": "chemicals"
         },
         {
           "distance": "0.09485211565602995",
@@ -2370,7 +2370,7 @@
         },
         {
           "distance": "-0.21749259804401086",
-          "word": "herbicide"
+          "word": "chemicals"
         },
         {
           "distance": "-0.16170025974090396",
@@ -2572,7 +2572,7 @@
         }
       ],
       "group": 14,
-      "id": "herbicide",
+      "id": "chemicals",
       "occurrences": "4795",
       "sentences": [
         {
@@ -2730,7 +2730,7 @@
         },
         {
           "distance": "0.027657253538976388",
-          "word": "herbicide"
+          "word": "chemicals"
         },
         {
           "distance": "-0.3179953494833457",
@@ -2908,7 +2908,7 @@
         },
         {
           "distance": "-0.1369252184407706",
-          "word": "herbicide"
+          "word": "chemicals"
         },
         {
           "distance": "-0.3179953494833457",
@@ -3086,7 +3086,7 @@
         },
         {
           "distance": "-0.15897150178967456",
-          "word": "herbicide"
+          "word": "chemicals"
         },
         {
           "distance": "-0.37687464691428274",
@@ -3264,7 +3264,7 @@
         },
         {
           "distance": "-0.15987913893645658",
-          "word": "herbicide"
+          "word": "chemicals"
         },
         {
           "distance": "-0.06767168934733479",
@@ -3442,7 +3442,7 @@
         },
         {
           "distance": "-0.1608769710795159",
-          "word": "herbicide"
+          "word": "chemicals"
         },
         {
           "distance": "0.19223918207069915",
@@ -4018,72 +4018,72 @@
       "value": -0.11
     },
     {
-      "source": "herbicide",
+      "source": "chemicals",
       "target": "buy",
       "value": 0.05
     },
     {
-      "source": "herbicide",
+      "source": "chemicals",
       "target": "monsantos",
       "value": -0.01
     },
     {
-      "source": "herbicide",
+      "source": "chemicals",
       "target": "hypocritical",
       "value": -0.24
     },
     {
-      "source": "herbicide",
+      "source": "chemicals",
       "target": "heck",
       "value": -0.18
     },
     {
-      "source": "herbicide",
+      "source": "chemicals",
       "target": "boost",
       "value": -0.25
     },
     {
-      "source": "herbicide",
+      "source": "chemicals",
       "target": "fun",
       "value": -0.43
     },
     {
-      "source": "herbicide",
+      "source": "chemicals",
       "target": "diseases",
       "value": 0.21
     },
     {
-      "source": "herbicide",
+      "source": "chemicals",
       "target": "labled",
       "value": 0.41
     },
     {
-      "source": "herbicide",
+      "source": "chemicals",
       "target": "<num>",
       "value": -0.09
     },
     {
-      "source": "herbicide",
+      "source": "chemicals",
       "target": "specified",
       "value": 0.14
     },
     {
-      "source": "herbicide",
+      "source": "chemicals",
       "target": "pasture",
       "value": 0.24
     },
     {
-      "source": "herbicide",
+      "source": "chemicals",
       "target": "ecology",
       "value": -0.04
     },
     {
-      "source": "herbicide",
+      "source": "chemicals",
       "target": "rejected",
       "value": -0.19
     },
     {
-      "source": "herbicide",
+      "source": "chemicals",
       "target": "goorganic",
       "value": -0.22
     },
@@ -4159,7 +4159,7 @@
     },
     {
       "source": "alleged",
-      "target": "herbicide",
+      "target": "chemicals",
       "value": 0.03
     },
     {
@@ -4234,7 +4234,7 @@
     },
     {
       "source": "onto",
-      "target": "herbicide",
+      "target": "chemicals",
       "value": -0.14
     },
     {
@@ -4314,7 +4314,7 @@
     },
     {
       "source": "butter",
-      "target": "herbicide",
+      "target": "chemicals",
       "value": -0.16
     },
     {
@@ -4399,7 +4399,7 @@
     },
     {
       "source": "advise",
-      "target": "herbicide",
+      "target": "chemicals",
       "value": -0.16
     },
     {
@@ -4489,7 +4489,7 @@
     },
     {
       "source": "owned",
-      "target": "herbicide",
+      "target": "chemicals",
       "value": -0.16
     },
     {
