@@ -12,7 +12,7 @@
         },
         {
           "distance": "-0.16466756081447384",
-          "word": "heck"
+          "word": "colloquial_terms"
         },
         {
           "distance": "0.16064637458720912",
@@ -190,7 +190,7 @@
         },
         {
           "distance": "0.36912728427248115",
-          "word": "heck"
+          "word": "colloquial_terms"
         },
         {
           "distance": "-0.5966157471584982",
@@ -368,7 +368,7 @@
         },
         {
           "distance": "-0.33079064489806725",
-          "word": "heck"
+          "word": "colloquial_terms"
         },
         {
           "distance": "0.3142667224450646",
@@ -614,7 +614,7 @@
         }
       ],
       "group": 3,
-      "id": "heck",
+      "id": "colloquial_terms",
       "occurrences": "5273",
       "sentences": [
         {
@@ -728,7 +728,7 @@
         },
         {
           "distance": "-0.3799100233633392",
-          "word": "heck"
+          "word": "colloquial_terms"
         },
         {
           "distance": "0.1064314992278388",
@@ -906,7 +906,7 @@
         },
         {
           "distance": "0.20107755263690474",
-          "word": "heck"
+          "word": "colloquial_terms"
         },
         {
           "distance": "0.1064314992278388",
@@ -1084,7 +1084,7 @@
         },
         {
           "distance": "0.0009378685619874835",
-          "word": "heck"
+          "word": "colloquial_terms"
         },
         {
           "distance": "-0.003396480849241112",
@@ -1262,7 +1262,7 @@
         },
         {
           "distance": "0.1076940064294638",
-          "word": "heck"
+          "word": "colloquial_terms"
         },
         {
           "distance": "-0.5620918836969166",
@@ -1440,7 +1440,7 @@
         },
         {
           "distance": "-0.011963745497164814",
-          "word": "heck"
+          "word": "colloquial_terms"
         },
         {
           "distance": "-0.2637867751868698",
@@ -1618,7 +1618,7 @@
         },
         {
           "distance": "0.23155519695707558",
-          "word": "heck"
+          "word": "colloquial_terms"
         },
         {
           "distance": "-0.268794028986039",
@@ -1796,7 +1796,7 @@
         },
         {
           "distance": "0.04732787635102506",
-          "word": "heck"
+          "word": "colloquial_terms"
         },
         {
           "distance": "-0.2928435027725651",
@@ -1974,7 +1974,7 @@
         },
         {
           "distance": "-0.22522868824142644",
-          "word": "heck"
+          "word": "colloquial_terms"
         },
         {
           "distance": "0.1883463505234374",
@@ -2152,7 +2152,7 @@
         },
         {
           "distance": "0.1663653184235245",
-          "word": "heck"
+          "word": "colloquial_terms"
         },
         {
           "distance": "0.09914462941889574",
@@ -2330,7 +2330,7 @@
         },
         {
           "distance": "-0.37213489120292387",
-          "word": "heck"
+          "word": "colloquial_terms"
         },
         {
           "distance": "0.38897049940218753",
@@ -2508,7 +2508,7 @@
         },
         {
           "distance": "-0.17558018525537242",
-          "word": "heck"
+          "word": "colloquial_terms"
         },
         {
           "distance": "-0.2540990342811387",
@@ -2686,7 +2686,7 @@
         },
         {
           "distance": "0.05554504318155401",
-          "word": "heck"
+          "word": "colloquial_terms"
         },
         {
           "distance": "-0.2873253377718465",
@@ -2864,7 +2864,7 @@
         },
         {
           "distance": "-0.42053487928163397",
-          "word": "heck"
+          "word": "colloquial_terms"
         },
         {
           "distance": "0.5507654916045798",
@@ -3042,7 +3042,7 @@
         },
         {
           "distance": "-0.06781394947542828",
-          "word": "heck"
+          "word": "colloquial_terms"
         },
         {
           "distance": "0.001647142686297305",
@@ -3220,7 +3220,7 @@
         },
         {
           "distance": "-0.265939132185683",
-          "word": "heck"
+          "word": "colloquial_terms"
         },
         {
           "distance": "0.32125566955635587",
@@ -3398,7 +3398,7 @@
         },
         {
           "distance": "0.34748433528500633",
-          "word": "heck"
+          "word": "colloquial_terms"
         },
         {
           "distance": "-0.2740198720194825",
@@ -3578,17 +3578,17 @@
       "value": -0.39
     },
     {
-      "source": "heck",
+      "source": "colloquial_terms",
       "target": "buy",
       "value": -0.16
     },
     {
-      "source": "heck",
+      "source": "colloquial_terms",
       "target": "monsantos",
       "value": 0.37
     },
     {
-      "source": "heck",
+      "source": "colloquial_terms",
       "target": "hypocritical",
       "value": -0.33
     },
@@ -3609,7 +3609,7 @@
     },
     {
       "source": "boost",
-      "target": "heck",
+      "target": "colloquial_terms",
       "value": -0.38
     },
     {
@@ -3629,7 +3629,7 @@
     },
     {
       "source": "fun",
-      "target": "heck",
+      "target": "colloquial_terms",
       "value": 0.2
     },
     {
@@ -3654,7 +3654,7 @@
     },
     {
       "source": "diseases",
-      "target": "heck",
+      "target": "colloquial_terms",
       "value": 0.0
     },
     {
@@ -3684,7 +3684,7 @@
     },
     {
       "source": "organic_labeling",
-      "target": "heck",
+      "target": "colloquial_terms",
       "value": 0.11
     },
     {
@@ -3719,7 +3719,7 @@
     },
     {
       "source": "<num>",
-      "target": "heck",
+      "target": "colloquial_terms",
       "value": -0.01
     },
     {
@@ -3759,7 +3759,7 @@
     },
     {
       "source": "specified",
-      "target": "heck",
+      "target": "colloquial_terms",
       "value": 0.23
     },
     {
@@ -3804,7 +3804,7 @@
     },
     {
       "source": "pasture",
-      "target": "heck",
+      "target": "colloquial_terms",
       "value": 0.05
     },
     {
@@ -3854,7 +3854,7 @@
     },
     {
       "source": "ecology",
-      "target": "heck",
+      "target": "colloquial_terms",
       "value": -0.23
     },
     {
@@ -3909,7 +3909,7 @@
     },
     {
       "source": "rejected",
-      "target": "heck",
+      "target": "colloquial_terms",
       "value": 0.17
     },
     {
@@ -3969,7 +3969,7 @@
     },
     {
       "source": "goorganic",
-      "target": "heck",
+      "target": "colloquial_terms",
       "value": -0.37
     },
     {
@@ -4034,7 +4034,7 @@
     },
     {
       "source": "chemicals",
-      "target": "heck",
+      "target": "colloquial_terms",
       "value": -0.18
     },
     {
@@ -4104,7 +4104,7 @@
     },
     {
       "source": "alleged",
-      "target": "heck",
+      "target": "colloquial_terms",
       "value": 0.06
     },
     {
@@ -4179,7 +4179,7 @@
     },
     {
       "source": "onto",
-      "target": "heck",
+      "target": "colloquial_terms",
       "value": -0.42
     },
     {
@@ -4259,7 +4259,7 @@
     },
     {
       "source": "butter",
-      "target": "heck",
+      "target": "colloquial_terms",
       "value": -0.07
     },
     {
@@ -4344,7 +4344,7 @@
     },
     {
       "source": "advise",
-      "target": "heck",
+      "target": "colloquial_terms",
       "value": -0.27
     },
     {
@@ -4434,7 +4434,7 @@
     },
     {
       "source": "owned",
-      "target": "heck",
+      "target": "colloquial_terms",
       "value": 0.35
     },
     {
