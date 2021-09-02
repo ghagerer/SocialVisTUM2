@@ -28,7 +28,7 @@
         },
         {
           "distance": "-0.07806421573395857",
-          "word": "labled"
+          "word": "organic_labeling"
         },
         {
           "distance": "-0.1806178916271375",
@@ -206,7 +206,7 @@
         },
         {
           "distance": "0.4342577791342237",
-          "word": "labled"
+          "word": "organic_labeling"
         },
         {
           "distance": "0.31352622763220844",
@@ -384,7 +384,7 @@
         },
         {
           "distance": "-0.3104113660998256",
-          "word": "labled"
+          "word": "organic_labeling"
         },
         {
           "distance": "-0.16012477468985442",
@@ -562,7 +562,7 @@
         },
         {
           "distance": "0.1076940064294638",
-          "word": "labled"
+          "word": "organic_labeling"
         },
         {
           "distance": "-0.011963745497164814",
@@ -740,7 +740,7 @@
         },
         {
           "distance": "-0.5620918836969166",
-          "word": "labled"
+          "word": "organic_labeling"
         },
         {
           "distance": "-0.2637867751868698",
@@ -918,7 +918,7 @@
         },
         {
           "distance": "-0.3642695255930918",
-          "word": "labled"
+          "word": "organic_labeling"
         },
         {
           "distance": "-0.11186221792924193",
@@ -1096,7 +1096,7 @@
         },
         {
           "distance": "0.011093673663686621",
-          "word": "labled"
+          "word": "organic_labeling"
         },
         {
           "distance": "-0.20235564373640258",
@@ -1326,7 +1326,7 @@
         }
       ],
       "group": 7,
-      "id": "labled",
+      "id": "organic_labeling",
       "occurrences": "3844",
       "sentences": [
         {
@@ -1456,7 +1456,7 @@
         },
         {
           "distance": "0.08914801709020911",
-          "word": "labled"
+          "word": "organic_labeling"
         },
         {
           "distance": "0.07622957476896164",
@@ -1634,7 +1634,7 @@
         },
         {
           "distance": "0.17278027443879168",
-          "word": "labled"
+          "word": "organic_labeling"
         },
         {
           "distance": "0.07622957476896164",
@@ -1812,7 +1812,7 @@
         },
         {
           "distance": "0.3308805506245003",
-          "word": "labled"
+          "word": "organic_labeling"
         },
         {
           "distance": "0.07560931749755613",
@@ -1990,7 +1990,7 @@
         },
         {
           "distance": "-0.21044520037512826",
-          "word": "labled"
+          "word": "organic_labeling"
         },
         {
           "distance": "-0.0880411111926313",
@@ -2168,7 +2168,7 @@
         },
         {
           "distance": "-0.33878947256140735",
-          "word": "labled"
+          "word": "organic_labeling"
         },
         {
           "distance": "-0.160761019073245",
@@ -2346,7 +2346,7 @@
         },
         {
           "distance": "-0.4483572768826271",
-          "word": "labled"
+          "word": "organic_labeling"
         },
         {
           "distance": "-0.08415357564015578",
@@ -2524,7 +2524,7 @@
         },
         {
           "distance": "0.40640240725292304",
-          "word": "labled"
+          "word": "organic_labeling"
         },
         {
           "distance": "-0.08552143943923662",
@@ -2702,7 +2702,7 @@
         },
         {
           "distance": "0.057311256351490064",
-          "word": "labled"
+          "word": "organic_labeling"
         },
         {
           "distance": "0.18883481042454928",
@@ -2880,7 +2880,7 @@
         },
         {
           "distance": "-0.45493857564663615",
-          "word": "labled"
+          "word": "organic_labeling"
         },
         {
           "distance": "-0.3623168839224655",
@@ -3058,7 +3058,7 @@
         },
         {
           "distance": "0.09460669419170427",
-          "word": "labled"
+          "word": "organic_labeling"
         },
         {
           "distance": "-0.07340210358996124",
@@ -3236,7 +3236,7 @@
         },
         {
           "distance": "-0.32469150218843384",
-          "word": "labled"
+          "word": "organic_labeling"
         },
         {
           "distance": "-0.07178231955030479",
@@ -3414,7 +3414,7 @@
         },
         {
           "distance": "0.0548469654651553",
-          "word": "labled"
+          "word": "organic_labeling"
         },
         {
           "distance": "0.30607154461275093",
@@ -3668,37 +3668,37 @@
       "value": 0.03
     },
     {
-      "source": "labled",
+      "source": "organic_labeling",
       "target": "buy",
       "value": -0.08
     },
     {
-      "source": "labled",
+      "source": "organic_labeling",
       "target": "monsantos",
       "value": 0.43
     },
     {
-      "source": "labled",
+      "source": "organic_labeling",
       "target": "hypocritical",
       "value": -0.31
     },
     {
-      "source": "labled",
+      "source": "organic_labeling",
       "target": "heck",
       "value": 0.11
     },
     {
-      "source": "labled",
+      "source": "organic_labeling",
       "target": "boost",
       "value": -0.56
     },
     {
-      "source": "labled",
+      "source": "organic_labeling",
       "target": "fun",
       "value": -0.36
     },
     {
-      "source": "labled",
+      "source": "organic_labeling",
       "target": "diseases",
       "value": 0.01
     },
@@ -3739,7 +3739,7 @@
     },
     {
       "source": "<num>",
-      "target": "labled",
+      "target": "organic_labeling",
       "value": 0.09
     },
     {
@@ -3779,7 +3779,7 @@
     },
     {
       "source": "specified",
-      "target": "labled",
+      "target": "organic_labeling",
       "value": 0.17
     },
     {
@@ -3824,7 +3824,7 @@
     },
     {
       "source": "pasture",
-      "target": "labled",
+      "target": "organic_labeling",
       "value": 0.33
     },
     {
@@ -3874,7 +3874,7 @@
     },
     {
       "source": "ecology",
-      "target": "labled",
+      "target": "organic_labeling",
       "value": -0.21
     },
     {
@@ -3929,7 +3929,7 @@
     },
     {
       "source": "rejected",
-      "target": "labled",
+      "target": "organic_labeling",
       "value": -0.34
     },
     {
@@ -3989,7 +3989,7 @@
     },
     {
       "source": "goorganic",
-      "target": "labled",
+      "target": "organic_labeling",
       "value": -0.45
     },
     {
@@ -4054,7 +4054,7 @@
     },
     {
       "source": "chemicals",
-      "target": "labled",
+      "target": "organic_labeling",
       "value": 0.41
     },
     {
@@ -4124,7 +4124,7 @@
     },
     {
       "source": "alleged",
-      "target": "labled",
+      "target": "organic_labeling",
       "value": 0.06
     },
     {
@@ -4199,7 +4199,7 @@
     },
     {
       "source": "onto",
-      "target": "labled",
+      "target": "organic_labeling",
       "value": -0.45
     },
     {
@@ -4279,7 +4279,7 @@
     },
     {
       "source": "butter",
-      "target": "labled",
+      "target": "organic_labeling",
       "value": 0.09
     },
     {
@@ -4364,7 +4364,7 @@
     },
     {
       "source": "advise",
-      "target": "labled",
+      "target": "organic_labeling",
       "value": -0.32
     },
     {
@@ -4454,7 +4454,7 @@
     },
     {
       "source": "owned",
-      "target": "labled",
+      "target": "organic_labeling",
       "value": 0.05
     },
     {
