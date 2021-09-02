@@ -20,7 +20,7 @@
         },
         {
           "distance": "-0.12079702796977035",
-          "word": "fun"
+          "word": "positive_words"
         },
         {
           "distance": "-0.04805343560648552",
@@ -68,7 +68,7 @@
         },
         {
           "distance": "0.12253915532186938",
-          "word": "butter"
+          "word": "milk_products"
         },
         {
           "distance": "0.10491233896244954",
@@ -198,7 +198,7 @@
         },
         {
           "distance": "-0.03801933904082983",
-          "word": "fun"
+          "word": "positive_words"
         },
         {
           "distance": "-0.06678694525194111",
@@ -246,7 +246,7 @@
         },
         {
           "distance": "-0.09088376684898572",
-          "word": "butter"
+          "word": "milk_products"
         },
         {
           "distance": "-0.3589666444177484",
@@ -376,7 +376,7 @@
         },
         {
           "distance": "0.24072732954675902",
-          "word": "fun"
+          "word": "positive_words"
         },
         {
           "distance": "-0.202954867526896",
@@ -424,7 +424,7 @@
         },
         {
           "distance": "-0.02451434936623929",
-          "word": "butter"
+          "word": "milk_products"
         },
         {
           "distance": "0.24891747627413496",
@@ -554,7 +554,7 @@
         },
         {
           "distance": "0.20107755263690474",
-          "word": "fun"
+          "word": "positive_words"
         },
         {
           "distance": "0.0009378685619874835",
@@ -602,7 +602,7 @@
         },
         {
           "distance": "-0.06781394947542828",
-          "word": "butter"
+          "word": "milk_products"
         },
         {
           "distance": "-0.265939132185683",
@@ -732,7 +732,7 @@
         },
         {
           "distance": "0.1064314992278388",
-          "word": "fun"
+          "word": "positive_words"
         },
         {
           "distance": "-0.003396480849241112",
@@ -780,7 +780,7 @@
         },
         {
           "distance": "0.001647142686297305",
-          "word": "butter"
+          "word": "milk_products"
         },
         {
           "distance": "0.32125566955635587",
@@ -958,7 +958,7 @@
         },
         {
           "distance": "-0.09381312105544733",
-          "word": "butter"
+          "word": "milk_products"
         },
         {
           "distance": "-0.054346755748710986",
@@ -970,7 +970,7 @@
         }
       ],
       "group": 5,
-      "id": "fun",
+      "id": "positive_words",
       "occurrences": "13803",
       "sentences": [
         {
@@ -1092,7 +1092,7 @@
         },
         {
           "distance": "0.026593586137438074",
-          "word": "fun"
+          "word": "positive_words"
         },
         {
           "distance": "0.011093673663686621",
@@ -1136,7 +1136,7 @@
         },
         {
           "distance": "-0.06471064377627331",
-          "word": "butter"
+          "word": "milk_products"
         },
         {
           "distance": "-0.16946950577731035",
@@ -1270,7 +1270,7 @@
         },
         {
           "distance": "-0.3642695255930918",
-          "word": "fun"
+          "word": "positive_words"
         },
         {
           "distance": "0.011093673663686621",
@@ -1314,7 +1314,7 @@
         },
         {
           "distance": "0.09460669419170427",
-          "word": "butter"
+          "word": "milk_products"
         },
         {
           "distance": "-0.32469150218843384",
@@ -1448,7 +1448,7 @@
         },
         {
           "distance": "-0.11186221792924193",
-          "word": "fun"
+          "word": "positive_words"
         },
         {
           "distance": "-0.20235564373640258",
@@ -1492,7 +1492,7 @@
         },
         {
           "distance": "-0.07340210358996124",
-          "word": "butter"
+          "word": "milk_products"
         },
         {
           "distance": "-0.07178231955030479",
@@ -1626,7 +1626,7 @@
         },
         {
           "distance": "-0.08796667483930683",
-          "word": "fun"
+          "word": "positive_words"
         },
         {
           "distance": "-0.015220899348389758",
@@ -1670,7 +1670,7 @@
         },
         {
           "distance": "-0.3068574766629087",
-          "word": "butter"
+          "word": "milk_products"
         },
         {
           "distance": "-0.12519388309238322",
@@ -1804,7 +1804,7 @@
         },
         {
           "distance": "-0.24669503848760094",
-          "word": "fun"
+          "word": "positive_words"
         },
         {
           "distance": "0.10404902544813927",
@@ -1848,7 +1848,7 @@
         },
         {
           "distance": "0.13949644706916364",
-          "word": "butter"
+          "word": "milk_products"
         },
         {
           "distance": "-0.2764201716710399",
@@ -1982,7 +1982,7 @@
         },
         {
           "distance": "-0.10486315249516129",
-          "word": "fun"
+          "word": "positive_words"
         },
         {
           "distance": "-0.14704108726484913",
@@ -2026,7 +2026,7 @@
         },
         {
           "distance": "-0.1776862767088724",
-          "word": "butter"
+          "word": "milk_products"
         },
         {
           "distance": "0.15856509929481225",
@@ -2160,7 +2160,7 @@
         },
         {
           "distance": "0.1571853176581773",
-          "word": "fun"
+          "word": "positive_words"
         },
         {
           "distance": "0.09690158120289534",
@@ -2204,7 +2204,7 @@
         },
         {
           "distance": "-0.2848711452138437",
-          "word": "butter"
+          "word": "milk_products"
         },
         {
           "distance": "0.07483834408765846",
@@ -2338,7 +2338,7 @@
         },
         {
           "distance": "-0.02815476580187901",
-          "word": "fun"
+          "word": "positive_words"
         },
         {
           "distance": "-0.2504223094110118",
@@ -2382,7 +2382,7 @@
         },
         {
           "distance": "0.1365730787904655",
-          "word": "butter"
+          "word": "milk_products"
         },
         {
           "distance": "0.2697289921319846",
@@ -2516,7 +2516,7 @@
         },
         {
           "distance": "-0.4332019447523463",
-          "word": "fun"
+          "word": "positive_words"
         },
         {
           "distance": "0.2092476340552502",
@@ -2560,7 +2560,7 @@
         },
         {
           "distance": "-0.15897150178967456",
-          "word": "butter"
+          "word": "milk_products"
         },
         {
           "distance": "-0.15987913893645658",
@@ -2694,7 +2694,7 @@
         },
         {
           "distance": "-0.02365233233930113",
-          "word": "fun"
+          "word": "positive_words"
         },
         {
           "distance": "0.01853340111918016",
@@ -2738,7 +2738,7 @@
         },
         {
           "distance": "-0.37687464691428274",
-          "word": "butter"
+          "word": "milk_products"
         },
         {
           "distance": "-0.06767168934733479",
@@ -2872,7 +2872,7 @@
         },
         {
           "distance": "0.11392935324498252",
-          "word": "fun"
+          "word": "positive_words"
         },
         {
           "distance": "-0.06532279460251916",
@@ -2916,7 +2916,7 @@
         },
         {
           "distance": "0.15312118820190512",
-          "word": "butter"
+          "word": "milk_products"
         },
         {
           "distance": "0.2306504933080858",
@@ -3050,7 +3050,7 @@
         },
         {
           "distance": "-0.09381312105544733",
-          "word": "fun"
+          "word": "positive_words"
         },
         {
           "distance": "-0.06471064377627331",
@@ -3106,7 +3106,7 @@
         }
       ],
       "group": 17,
-      "id": "butter",
+      "id": "milk_products",
       "occurrences": "8282",
       "sentences": [
         {
@@ -3228,7 +3228,7 @@
         },
         {
           "distance": "-0.054346755748710986",
-          "word": "fun"
+          "word": "positive_words"
         },
         {
           "distance": "-0.16946950577731035",
@@ -3276,7 +3276,7 @@
         },
         {
           "distance": "-0.14292285260091775",
-          "word": "butter"
+          "word": "milk_products"
         },
         {
           "distance": "-0.15364901998055847",
@@ -3406,7 +3406,7 @@
         },
         {
           "distance": "-0.05161350957184056",
-          "word": "fun"
+          "word": "positive_words"
         },
         {
           "distance": "-0.2196165921751988",
@@ -3454,7 +3454,7 @@
         },
         {
           "distance": "-0.16160006484103623",
-          "word": "butter"
+          "word": "milk_products"
         },
         {
           "distance": "-0.15364901998055847",
@@ -3613,27 +3613,27 @@
       "value": -0.38
     },
     {
-      "source": "fun",
+      "source": "positive_words",
       "target": "buy",
       "value": -0.12
     },
     {
-      "source": "fun",
+      "source": "positive_words",
       "target": "monsantos",
       "value": -0.04
     },
     {
-      "source": "fun",
+      "source": "positive_words",
       "target": "hypocritical",
       "value": 0.24
     },
     {
-      "source": "fun",
+      "source": "positive_words",
       "target": "colloquial_terms",
       "value": 0.2
     },
     {
-      "source": "fun",
+      "source": "positive_words",
       "target": "boost",
       "value": 0.11
     },
@@ -3664,7 +3664,7 @@
     },
     {
       "source": "diseases",
-      "target": "fun",
+      "target": "positive_words",
       "value": 0.03
     },
     {
@@ -3694,7 +3694,7 @@
     },
     {
       "source": "organic_labeling",
-      "target": "fun",
+      "target": "positive_words",
       "value": -0.36
     },
     {
@@ -3729,7 +3729,7 @@
     },
     {
       "source": "<num>",
-      "target": "fun",
+      "target": "positive_words",
       "value": -0.11
     },
     {
@@ -3769,7 +3769,7 @@
     },
     {
       "source": "specified",
-      "target": "fun",
+      "target": "positive_words",
       "value": -0.09
     },
     {
@@ -3814,7 +3814,7 @@
     },
     {
       "source": "pasture",
-      "target": "fun",
+      "target": "positive_words",
       "value": -0.25
     },
     {
@@ -3864,7 +3864,7 @@
     },
     {
       "source": "ecology",
-      "target": "fun",
+      "target": "positive_words",
       "value": -0.1
     },
     {
@@ -3919,7 +3919,7 @@
     },
     {
       "source": "rejected",
-      "target": "fun",
+      "target": "positive_words",
       "value": 0.16
     },
     {
@@ -3979,7 +3979,7 @@
     },
     {
       "source": "goorganic",
-      "target": "fun",
+      "target": "positive_words",
       "value": -0.03
     },
     {
@@ -4044,7 +4044,7 @@
     },
     {
       "source": "chemicals",
-      "target": "fun",
+      "target": "positive_words",
       "value": -0.43
     },
     {
@@ -4114,7 +4114,7 @@
     },
     {
       "source": "alleged",
-      "target": "fun",
+      "target": "positive_words",
       "value": -0.02
     },
     {
@@ -4189,7 +4189,7 @@
     },
     {
       "source": "onto",
-      "target": "fun",
+      "target": "positive_words",
       "value": 0.11
     },
     {
@@ -4243,87 +4243,87 @@
       "value": -0.32
     },
     {
-      "source": "butter",
+      "source": "milk_products",
       "target": "buy",
       "value": 0.12
     },
     {
-      "source": "butter",
+      "source": "milk_products",
       "target": "monsantos",
       "value": -0.09
     },
     {
-      "source": "butter",
+      "source": "milk_products",
       "target": "hypocritical",
       "value": -0.02
     },
     {
-      "source": "butter",
+      "source": "milk_products",
       "target": "colloquial_terms",
       "value": -0.07
     },
     {
-      "source": "butter",
+      "source": "milk_products",
       "target": "boost",
       "value": 0.0
     },
     {
-      "source": "butter",
-      "target": "fun",
+      "source": "milk_products",
+      "target": "positive_words",
       "value": -0.09
     },
     {
-      "source": "butter",
+      "source": "milk_products",
       "target": "diseases",
       "value": -0.06
     },
     {
-      "source": "butter",
+      "source": "milk_products",
       "target": "organic_labeling",
       "value": 0.09
     },
     {
-      "source": "butter",
+      "source": "milk_products",
       "target": "<num>",
       "value": -0.07
     },
     {
-      "source": "butter",
+      "source": "milk_products",
       "target": "specified",
       "value": -0.31
     },
     {
-      "source": "butter",
+      "source": "milk_products",
       "target": "pasture",
       "value": 0.14
     },
     {
-      "source": "butter",
+      "source": "milk_products",
       "target": "ecology",
       "value": -0.18
     },
     {
-      "source": "butter",
+      "source": "milk_products",
       "target": "rejected",
       "value": -0.28
     },
     {
-      "source": "butter",
+      "source": "milk_products",
       "target": "goorganic",
       "value": 0.14
     },
     {
-      "source": "butter",
+      "source": "milk_products",
       "target": "chemicals",
       "value": -0.16
     },
     {
-      "source": "butter",
+      "source": "milk_products",
       "target": "alleged",
       "value": -0.38
     },
     {
-      "source": "butter",
+      "source": "milk_products",
       "target": "onto",
       "value": 0.15
     },
@@ -4354,7 +4354,7 @@
     },
     {
       "source": "advise",
-      "target": "fun",
+      "target": "positive_words",
       "value": -0.05
     },
     {
@@ -4414,7 +4414,7 @@
     },
     {
       "source": "advise",
-      "target": "butter",
+      "target": "milk_products",
       "value": -0.14
     },
     {
@@ -4444,7 +4444,7 @@
     },
     {
       "source": "owned",
-      "target": "fun",
+      "target": "positive_words",
       "value": -0.05
     },
     {
@@ -4504,7 +4504,7 @@
     },
     {
       "source": "owned",
-      "target": "butter",
+      "target": "milk_products",
       "value": -0.16
     },
     {
