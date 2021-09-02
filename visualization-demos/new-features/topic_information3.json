@@ -24,7 +24,7 @@
         },
         {
           "distance": "-0.04805343560648552",
-          "word": "diagnosed"
+          "word": "diseases"
         },
         {
           "distance": "-0.07806421573395857",
@@ -202,7 +202,7 @@
         },
         {
           "distance": "-0.06678694525194111",
-          "word": "diagnosed"
+          "word": "diseases"
         },
         {
           "distance": "0.4342577791342237",
@@ -380,7 +380,7 @@
         },
         {
           "distance": "-0.202954867526896",
-          "word": "diagnosed"
+          "word": "diseases"
         },
         {
           "distance": "-0.3104113660998256",
@@ -558,7 +558,7 @@
         },
         {
           "distance": "0.0009378685619874835",
-          "word": "diagnosed"
+          "word": "diseases"
         },
         {
           "distance": "0.1076940064294638",
@@ -736,7 +736,7 @@
         },
         {
           "distance": "-0.003396480849241112",
-          "word": "diagnosed"
+          "word": "diseases"
         },
         {
           "distance": "-0.5620918836969166",
@@ -914,7 +914,7 @@
         },
         {
           "distance": "0.026593586137438074",
-          "word": "diagnosed"
+          "word": "diseases"
         },
         {
           "distance": "-0.3642695255930918",
@@ -1148,7 +1148,7 @@
         }
       ],
       "group": 6,
-      "id": "diagnosed",
+      "id": "diseases",
       "occurrences": "3440",
       "sentences": [
         {
@@ -1274,7 +1274,7 @@
         },
         {
           "distance": "0.011093673663686621",
-          "word": "diagnosed"
+          "word": "diseases"
         },
         {
           "distance": "0.08914801709020911",
@@ -1452,7 +1452,7 @@
         },
         {
           "distance": "-0.20235564373640258",
-          "word": "diagnosed"
+          "word": "diseases"
         },
         {
           "distance": "0.08914801709020911",
@@ -1630,7 +1630,7 @@
         },
         {
           "distance": "-0.015220899348389758",
-          "word": "diagnosed"
+          "word": "diseases"
         },
         {
           "distance": "0.17278027443879168",
@@ -1808,7 +1808,7 @@
         },
         {
           "distance": "0.10404902544813927",
-          "word": "diagnosed"
+          "word": "diseases"
         },
         {
           "distance": "0.3308805506245003",
@@ -1986,7 +1986,7 @@
         },
         {
           "distance": "-0.14704108726484913",
-          "word": "diagnosed"
+          "word": "diseases"
         },
         {
           "distance": "-0.21044520037512826",
@@ -2164,7 +2164,7 @@
         },
         {
           "distance": "0.09690158120289534",
-          "word": "diagnosed"
+          "word": "diseases"
         },
         {
           "distance": "-0.33878947256140735",
@@ -2342,7 +2342,7 @@
         },
         {
           "distance": "-0.2504223094110118",
-          "word": "diagnosed"
+          "word": "diseases"
         },
         {
           "distance": "-0.4483572768826271",
@@ -2520,7 +2520,7 @@
         },
         {
           "distance": "0.2092476340552502",
-          "word": "diagnosed"
+          "word": "diseases"
         },
         {
           "distance": "0.40640240725292304",
@@ -2698,7 +2698,7 @@
         },
         {
           "distance": "0.01853340111918016",
-          "word": "diagnosed"
+          "word": "diseases"
         },
         {
           "distance": "0.057311256351490064",
@@ -2876,7 +2876,7 @@
         },
         {
           "distance": "-0.06532279460251916",
-          "word": "diagnosed"
+          "word": "diseases"
         },
         {
           "distance": "-0.45493857564663615",
@@ -3054,7 +3054,7 @@
         },
         {
           "distance": "-0.06471064377627331",
-          "word": "diagnosed"
+          "word": "diseases"
         },
         {
           "distance": "0.09460669419170427",
@@ -3232,7 +3232,7 @@
         },
         {
           "distance": "-0.16946950577731035",
-          "word": "diagnosed"
+          "word": "diseases"
         },
         {
           "distance": "-0.32469150218843384",
@@ -3410,7 +3410,7 @@
         },
         {
           "distance": "-0.2196165921751988",
-          "word": "diagnosed"
+          "word": "diseases"
         },
         {
           "distance": "0.0548469654651553",
@@ -3638,32 +3638,32 @@
       "value": 0.11
     },
     {
-      "source": "diagnosed",
+      "source": "diseases",
       "target": "buy",
       "value": -0.05
     },
     {
-      "source": "diagnosed",
+      "source": "diseases",
       "target": "monsantos",
       "value": -0.07
     },
     {
-      "source": "diagnosed",
+      "source": "diseases",
       "target": "hypocritical",
       "value": -0.2
     },
     {
-      "source": "diagnosed",
+      "source": "diseases",
       "target": "heck",
       "value": 0.0
     },
     {
-      "source": "diagnosed",
+      "source": "diseases",
       "target": "boost",
       "value": -0.0
     },
     {
-      "source": "diagnosed",
+      "source": "diseases",
       "target": "fun",
       "value": 0.03
     },
@@ -3699,7 +3699,7 @@
     },
     {
       "source": "labled",
-      "target": "diagnosed",
+      "target": "diseases",
       "value": 0.01
     },
     {
@@ -3734,7 +3734,7 @@
     },
     {
       "source": "<num>",
-      "target": "diagnosed",
+      "target": "diseases",
       "value": -0.2
     },
     {
@@ -3774,7 +3774,7 @@
     },
     {
       "source": "specified",
-      "target": "diagnosed",
+      "target": "diseases",
       "value": -0.02
     },
     {
@@ -3819,7 +3819,7 @@
     },
     {
       "source": "pasture",
-      "target": "diagnosed",
+      "target": "diseases",
       "value": 0.1
     },
     {
@@ -3869,7 +3869,7 @@
     },
     {
       "source": "ecology",
-      "target": "diagnosed",
+      "target": "diseases",
       "value": -0.15
     },
     {
@@ -3924,7 +3924,7 @@
     },
     {
       "source": "rejected",
-      "target": "diagnosed",
+      "target": "diseases",
       "value": 0.1
     },
     {
@@ -3984,7 +3984,7 @@
     },
     {
       "source": "goorganic",
-      "target": "diagnosed",
+      "target": "diseases",
       "value": -0.25
     },
     {
@@ -4049,7 +4049,7 @@
     },
     {
       "source": "herbicide",
-      "target": "diagnosed",
+      "target": "diseases",
       "value": 0.21
     },
     {
@@ -4119,7 +4119,7 @@
     },
     {
       "source": "alleged",
-      "target": "diagnosed",
+      "target": "diseases",
       "value": 0.02
     },
     {
@@ -4194,7 +4194,7 @@
     },
     {
       "source": "onto",
-      "target": "diagnosed",
+      "target": "diseases",
       "value": -0.07
     },
     {
@@ -4274,7 +4274,7 @@
     },
     {
       "source": "butter",
-      "target": "diagnosed",
+      "target": "diseases",
       "value": -0.06
     },
     {
@@ -4359,7 +4359,7 @@
     },
     {
       "source": "advise",
-      "target": "diagnosed",
+      "target": "diseases",
       "value": -0.17
     },
     {
@@ -4449,7 +4449,7 @@
     },
     {
       "source": "owned",
-      "target": "diagnosed",
+      "target": "diseases",
       "value": -0.22
     },
     {
